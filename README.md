@@ -1,6 +1,6 @@
 # HackWasm
 
-This is a mono-repo for everything related to HackWasm Berlin 2023 sponsored by Aura Network
+This is a mono-repo for everything related to [HackWasm Berlin 2023](https://www.awesomwasm.com/hackwasm) sponsored by Aura Network
 
 From July 14th until 16th, HackWasm Berlin is scheduled to run at Spielfeld Digital Hub, Berlin, Germany. This is the 1st CosmWasm-focused hackathon organized by Confio and sponsored by 4 global crypto projects who are also big supporters of CosmWasm; Aura network, Finschia, Neutron, and OKP4 !
 
