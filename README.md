@@ -24,6 +24,13 @@ Regarding the sponsor track by Aura Network, here are several topics that we are
 
 Beside these topics, if you have any other idea that fit into the theme of Aura: User onboarding, NFT focus, Gaming, etc that can be deployed on Aura Network, please feel free to apply.
 
+## Prize and benefits:
+
+Four tracks from four platinum sponsors, a total prize of $ 40k in fiat. Each sponsor decides their own track based on the below prize distribution for each track.
+- 1st: 5K USD
+- 2nd: 3K USD
+- 3rd: 2K USD
+
 ## How to participate ?
 
 Please find more information on HackWasm on the [DoraHacks page](https://dorahacks.io/hackathon/hackwasm/detail)
