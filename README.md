@@ -1,6 +1,6 @@
 # HackWasm
 
-This is a mono-repo for everything related to HackWasm Berlin 2023 sponsored by Aura Network
+This is a mono-repo for everything related to [HackWasm Berlin 2023](https://www.awesomwasm.com/hackwasm) sponsored by Aura Network
 
 From July 14th until 16th, HackWasm Berlin is scheduled to run at Spielfeld Digital Hub, Berlin, Germany. This is the 1st CosmWasm-focused hackathon organized by Confio and sponsored by 4 global crypto projects who are also big supporters of CosmWasm; Aura network, Finschia, Neutron, and OKP4 !
 
@@ -23,6 +23,13 @@ Regarding the sponsor track by Aura Network, here are several topics that we are
 4. **Expanding Aura Infrastructure**: Aura core infrastructure applications, [horoscope](https://github.com/aura-nw/horoscope-v2), [Pyxis](https://github.com/aura-nw/Aura-Safe) and [Aurascan](https://github.com/aura-nw/aurascan) are fully open source. We are welcome any effort to
 
 Beside these topics, if you have any other idea that fit into the theme of Aura: User onboarding, NFT focus, Gaming, etc that can be deployed on Aura Network, please feel free to apply.
+
+## Prize and benefits:
+
+Four tracks from four platinum sponsors, a total prize of $ 40k in fiat. Each sponsor decides their own track based on the below prize distribution for each track.
+- 1st: 5K USD
+- 2nd: 3K USD
+- 3rd: 2K USD
 
 ## How to participate ?
 
