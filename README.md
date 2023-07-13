@@ -32,3 +32,13 @@ Please be aware that at least 1 person of the team must be presented at the conf
 
 If you are still struggling to find your team, head over Aura Network Discord and tag me:
 eledra | Aura Network#8201 so that I can find someone at the venue to help you with the presentation.
+
+## Jude Criterias
+
+Each project will be evaulated indpedently by judges following these criterias:
+
+- Innovative : Is it the most innovative solution?
+- Impactful : Is it impactful to the ecosystem?
+- Realistic : Can it be done in the real world?
+- Creative and original : Is it original and the most creative?
+- Business value/Market fit : Does it offer any business value? Does it have a potential product-market fit?
