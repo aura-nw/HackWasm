@@ -20,7 +20,7 @@ Regarding the sponsor track by Aura Network, here are several topics that we are
 
 3. **User Onboarding Solutions**: solution involving better ways for user onboarding such as account abstraction, feegranting, authz, etc. Aura is the first Cosmos chain supporting CosmWasm smart account. The account abstraction module on Serenity Testnet is [here](https://github.com/aura-nw/aura/tree/serenity/x/smartaccount) and there are several examples of smart account [here](https://github.com/aura-nw/smart-account-sample).
 
-4. **Expanding Aura Infrastructure**: Aura core infrastructure applications, [horoscope](https://github.com/aura-nw/horoscope-v2), [Pyxis](https://github.com/aura-nw/Aura-Safe) and [Aurascan](https://github.com/aura-nw/aurascan) are fully open source. We are welcome any effort to
+4. **Expanding Aura Infrastructure**: Aura core infrastructure applications, [horoscope](https://github.com/aura-nw/horoscope-v2), [Pyxis](https://github.com/aura-nw/Aura-Safe) and [Aurascan](https://github.com/aura-nw/aurascan) are fully open source. We are welcome any effort to make new features on these products.
 
 Beside these topics, if you have any other idea that fit into the theme of Aura: User onboarding, NFT focus, Gaming, etc that can be deployed on Aura Network, please feel free to apply.
 
