@@ -49,3 +49,9 @@ Each project will be evaulated indpedently by judges following these criterias:
 - Realistic : Can it be done in the real world?
 - Creative and original : Is it original and the most creative?
 - Business value/Market fit : Does it offer any business value? Does it have a potential product-market fit?
+
+## Mentors
+
+If you have any questions, you can ping us via:
+- discord: @pearaq, @kienvc, @eledra | Aura Network#8201
+- telegram: @pearaq, @kienvc, @arandomuserlol
